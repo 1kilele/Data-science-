@@ -1,0 +1,3 @@
+Engineered a Random Forest machine learning classification model using Scikit-Learn to predict patient diabetes risk, achieving a 76% accuracy score.
+Conducted Exploratory Data Analysis (EDA) using Matplotlib to visually identify and filter structurally impossible data points, improving model reliability.
+Implemented Explainable AI (XAI) protocols by extracting feature importance and statistical correlations, successfully proving to stakeholders that the model prioritized Glucose and BMI risk factors.
