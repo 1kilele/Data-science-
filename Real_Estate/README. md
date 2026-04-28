@@ -1,0 +1,3 @@
+Developed a Linear Regression model in Python to predict fluid real estate valuations based on architectural parameters.
+Engineered synthetic, tabular housing datasets from scratch utilizing Python dictionaries and Pandas DataFrames.
+Evaluated predictive performance using Mean Absolute Error (MAE) instead of standard accuracy metrics to accurately grade continuous financial outputs.
