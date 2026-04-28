@@ -1,0 +1,3 @@
+Built a predictive classification algorithm pipeline to determine passenger survival probabilities based on historical demographic data.
+Processed raw CSV data using Pandas, performing critical data wrangling tasks including binary categorical encoding and mathematical imputation for missing values.
+Implemented robust train-test splitting protocols to validate model generalizability and prevent algorithmic overfitting
